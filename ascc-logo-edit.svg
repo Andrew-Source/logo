@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.41"
-     inkscape:cx="-1099.9296"
+     inkscape:cx="-1604.8076"
      inkscape:cy="671.14254"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,18 +53,17 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g4529"
-       transform="translate(-122.61179,20.005081)"
+       id="g834"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <circle
          r="211.66667"
-         cy="99.530495"
-         cx="-285.23373"
+         cy="119.53558"
+         cx="-407.84552"
          id="path26"
-         style="fill:#8889ff;fill-opacity:1;stroke-width:0.57094294" />
+         style="fill:#3c99ff;fill-opacity:1;stroke-width:0.57094294" />
       <flowRoot
-         transform="matrix(0.32608654,0,0,0.35264272,90.759152,-1.5045271)"
+         transform="matrix(0.32608654,0,0,0.35264272,-31.852638,18.500554)"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
          id="flowRoot12"
          xml:space="preserve"><flowRegion
